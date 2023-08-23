@@ -1,9 +1,15 @@
 {
-    "name": "laravel/laravel",
+    "name": "ajoq/laravel-001-intro",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "lrv-43 exercise 001",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Konstantin Beloglazov",
+            "email": "ajoq@ya.ru"
+        }
+    ],
     "require": {
         "php": "^8.1",
         "guzzlehttp/guzzle": "^7.2",
